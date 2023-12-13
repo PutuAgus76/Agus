@@ -541,12 +541,12 @@ footer li {
   }
 
   .timeline li .timeline-panel {
-    width: 60%;
+    width: 70%;
     float: right;
   }
 
   .timeline li.timeline-inverted .timeline-panel {
-    width: 60%;
+    width: 70%;
     float: right;
   }
 
@@ -602,8 +602,8 @@ footer li {
   }
 
   .timeline li .timeline-image {
-    width: 140px;
-    height: 140px;
+    width: 100px;
+    height: 100px;
   }
 
   .timeline li .timeline {
